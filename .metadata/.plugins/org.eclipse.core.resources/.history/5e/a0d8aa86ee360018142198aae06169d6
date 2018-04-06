@@ -1,0 +1,9 @@
+package com.soaconsulting.model;
+
+public class IssuerPartyVO {
+	private String customerAssignedAccountID; 
+	private String teleFax;
+	private String gln;
+	private String legalType;	
+	private IdentificationVO identification; 
+}

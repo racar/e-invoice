@@ -1,0 +1,5 @@
+package com.soaconsulting.model;
+
+public class IdentificationVO {
+
+}

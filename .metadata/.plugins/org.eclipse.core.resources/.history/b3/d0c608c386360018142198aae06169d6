@@ -1,0 +1,20 @@
+package com.soaconsulting.model;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Singleton;
+
+/**
+ * Session Bean implementation class FacturaData
+ */
+@Singleton
+@LocalBean
+public class FacturaData {
+
+    /**
+     * Default constructor. 
+     */
+    public FacturaData() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

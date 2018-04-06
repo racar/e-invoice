@@ -1,0 +1,60 @@
+package com.soaconsulting.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+import javax.ejb.LocalBean;
+import javax.ejb.Singleton;
+import javax.ejb.Startup;
+
+/**
+ * Session Bean implementation class FacturaData
+ */
+@Singleton
+@LocalBean
+@Startup
+public class FacturaData {
+	
+	private List<FacturaVO> facturas;
+
+    /**
+     * Default constructor. 
+     */
+    public FacturaData() {
+        // TODO Auto-generated constructor stub
+    }
+    
+    @PostConstruct
+    public void initial() {
+    	facturas = new ArrayList<FacturaVO>();
+    	FacturaVO factura = new FacturaVO();
+    	factura.setSerieNumber(1);
+    	factura.setSeriePrefix("FAC");
+    	facturas.add(factura);
+    	factura = new FacturaVO();
+    	factura.setSerieNumber(2);
+    	factura.setSeriePrefix("FAC");
+    	facturas.add(factura);
+    	factura = new FacturaVO();
+    	factura.setSerieNumber(3);
+    	factura.setSeriePrefix("FAC");
+    	facturas.add(factura);
+    }
+
+	public List<FacturaVO> getFacturas() {
+		return facturas;
+	}
+    
+    public FacturaVO getFactura(int serieNumber){
+    	FacturaVO factura = null;
+    	for(FacturaVO fac : facturas) {
+    		if(fac.getSerieNumber() == serieNumber) {
+    			factura = fac;
+    		}
+    		
+    	}
+    	return factura;
+    }
+
+}

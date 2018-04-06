@@ -1,0 +1,7 @@
+package com.soaconsulting.model;
+
+public class PersonVO {
+	private String firstName;
+	private String middleName;
+	private String familyName;
+}

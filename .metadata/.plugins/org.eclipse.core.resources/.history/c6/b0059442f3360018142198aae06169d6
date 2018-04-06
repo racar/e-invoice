@@ -1,0 +1,18 @@
+package com.soaconsulting.model;
+
+public class CustomerPartyVO {
+	private String customerAssignedAccountID;
+	private String teleFax;
+	private String gln;
+	private String legalType;
+	private IdentificationVO identification;
+	private String name;
+	private String websiteUrl;
+	private String email;
+	private AddressVO address;
+	private String taxScheme;
+	private PersonVO person;
+	private String fiscalCategory;
+	private String industry;
+	
+}

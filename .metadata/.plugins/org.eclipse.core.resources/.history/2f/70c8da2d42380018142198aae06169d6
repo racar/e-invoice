@@ -1,0 +1,7 @@
+package com.soaconsulting.FELA14model;
+
+import java.util.List;
+
+public abstract class LinesVO implements List<LineVO> {
+
+}
