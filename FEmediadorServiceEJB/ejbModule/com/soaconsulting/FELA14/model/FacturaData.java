@@ -29,7 +29,7 @@ public class FacturaData {
     public void initial() {
     	facturas = new ArrayList<FacturaVO>();
     	FacturaVO factura = new FacturaVO();
-    	factura.setSerieNumber(1);
+    	factura.setSerieNumber("1");
     	factura.setSeriePrefix("FAC");
     	BillingPeriodVO bpvo = new BillingPeriodVO();
     	bpvo.setFrom("2018");
@@ -50,11 +50,11 @@ public class FacturaData {
     	
     	facturas.add(factura);
     	factura = new FacturaVO();
-    	factura.setSerieNumber(2);
+    	factura.setSerieNumber("2");
     	factura.setSeriePrefix("FAC");
     	facturas.add(factura);
     	factura = new FacturaVO();
-    	factura.setSerieNumber(3);
+    	factura.setSerieNumber("3");
     	factura.setSeriePrefix("FAC");
     	facturas.add(factura);
     }
@@ -68,10 +68,10 @@ public class FacturaData {
 		return _factura;
 	}
     
-    public FacturaVO getFactura(int serieNumber){
+    public FacturaVO getFactura(String serieNumber){
     	FacturaVO factura = null;
     	for(FacturaVO fac : facturas) {
-    		if(fac.getSerieNumber() == serieNumber) {
+    		if(fac.getSerieNumber().equals(serieNumber)) {
     			factura = fac;
     		}
     		

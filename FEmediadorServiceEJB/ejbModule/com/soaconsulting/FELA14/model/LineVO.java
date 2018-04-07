@@ -13,6 +13,11 @@ public class LineVO {
 	private String  UnitPrice;
 	private String  GrossAmount;
 	private String  NetAmount;
+	private AllowanceChargesVO allowanceCharges;
+	private DocumentReferencesVO documentsReferences;
+	private DocumentLineReferencesVO documentLineReferences;
+	private ItemVO item;
+	
 	
 	public String getNumber() {
 		return Number;
@@ -86,6 +91,31 @@ public class LineVO {
 	public void setNetAmount(String netAmount) {
 		NetAmount = netAmount;
 	}
+	public AllowanceChargesVO getAllowanceCharges() {
+		return allowanceCharges;
+	}
+	public void setAllowanceCharges(AllowanceChargesVO allowanceCharges) {
+		this.allowanceCharges = allowanceCharges;
+	}
+	public DocumentReferencesVO getDocumentsReferences() {
+		return documentsReferences;
+	}
+	public void setDocumentsReferences(DocumentReferencesVO documentsReferences) {
+		this.documentsReferences = documentsReferences;
+	}
+	public DocumentLineReferencesVO getDocumentLineReferences() {
+		return documentLineReferences;
+	}
+	public void setDocumentLineReferences(DocumentLineReferencesVO documentLineReferences) {
+		this.documentLineReferences = documentLineReferences;
+	}
+	public ItemVO getItem() {
+		return item;
+	}
+	public void setItem(ItemVO item) {
+		this.item = item;
+	}
+	
 	
 	
 }

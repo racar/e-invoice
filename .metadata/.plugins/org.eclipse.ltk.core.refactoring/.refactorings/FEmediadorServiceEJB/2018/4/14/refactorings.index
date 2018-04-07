@@ -4,3 +4,9 @@
 1522873716565	Rename type 'EmitirFacturaMDB'
 1522895528731	Delete element
 1523047754533	Delete element
+1523054231831	Rename type 'DocumentLineReferences'
+1523054297976	Rename type 'DocumentReferences'
+1523056196286	Rename type 'TaxSummary'
+1523056235884	Rename type 'WithholdingTaxSummary'
+1523058056584	Rename type 'Total'
+1523059954921	Rename type 'CustomFields'

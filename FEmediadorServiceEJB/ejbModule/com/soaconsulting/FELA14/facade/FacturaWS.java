@@ -32,7 +32,7 @@ public class FacturaWS {
     
     @WebMethod(operationName = "getFactura")
     @WebResult(name = "datosfactura")
-    public FacturaVO getFactura(@WebParam(name = "serie") int serie) {
+    public FacturaVO getFactura(@WebParam(name = "serie") String serie) {
     	return datos.getFactura(serie);
     }
     
