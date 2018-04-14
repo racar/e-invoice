@@ -1,7 +1,0 @@
-package com.soaconsulting.model;
-
-import java.util.ArrayList;
-
-public class LinesVO extends ArrayList {
-
-}

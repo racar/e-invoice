@@ -1,2 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.ejb.Startup"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="com.soaconsulting.model.FacturaData"/>
+<fullyQualifiedTypeName name="javax.jws.WebParam"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="javax.jws.WebResult"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.soaconsulting.model.AddressVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.model.PersonVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.model.IdentificationVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.model.CustomerPartyVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.DocumentReferences"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.DocumentLineReferences"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.ItemVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.TaxSummary"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.PrepaidPaymentsVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.DocumentAttachmentsVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.AllowanceChargesVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.FELA14.model.DocumentReferencesVO"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="javax.jms.ConnectionFactory"/>
+<fullyQualifiedTypeName name="javax.jms.Queue"/>
+<fullyQualifiedTypeName name="javax.jms.Connection"/>
+<fullyQualifiedTypeName name="javax.jms.Session"/>
+<fullyQualifiedTypeName name="javax.jms.MessageProducer"/>
+<fullyQualifiedTypeName name="javax.jms.TextMessage"/>
+<fullyQualifiedTypeName name="javax.jms.JMSException"/>
+<fullyQualifiedTypeName name="javax.ejb.Local"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.model.FacturaVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.businesss.EmisionQueueControl"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.businesss.impl.FacturaBusiness"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.model.EmisionVO"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="javax.jms.QueueConnectionFactory"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.model.NotaCreditoVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.model.NotaDebitoVO"/>
+<fullyQualifiedTypeName name="com.soaconsulting.la14fe.businesss.FacturaBusinessLocal"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+</qualifiedTypeNameHistroy>

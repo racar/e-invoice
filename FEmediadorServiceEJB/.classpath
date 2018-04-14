@@ -12,5 +12,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rafaelcarrascal/soaconsulting/fac_electronica_la14/FEmediadorServiceEJB/lib/jackson-core-2.9.5.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

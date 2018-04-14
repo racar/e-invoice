@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=FEmediadorServiceEJB/ejbModule&lt;com.soaconsulting.la14fe.businesss{FacturaBusinessLocal.java[FacturaBusinessLocal" modifiers="513" timestamp="1523472032000"/>
+<typeInfo handle="=FEmediadorServiceEJB/\/Users\/rafaelcarrascal\/wildfly-11.0.0.Final\/modules\/system\/layers\/base\/javax\/faces\/api\/main\/jboss-jsf-api_2.2_spec-2.2.13.jar&lt;javax.faces.view.facelets(FacetHandler.class[FacetHandler" modifiers="1537" timestamp="1508815834000"/>
+<typeInfo handle="=FEmediadorServiceEJB/\/Users\/rafaelcarrascal\/wildfly-11.0.0.Final\/modules\/system\/layers\/base\/javax\/faces\/api\/main\/jboss-jsf-api_2.2_spec-2.2.13.jar&lt;javax.faces(FacesWrapper.class[FacesWrapper" modifiers="1537" timestamp="1508815834000"/>
+</typeInfoHistroy>

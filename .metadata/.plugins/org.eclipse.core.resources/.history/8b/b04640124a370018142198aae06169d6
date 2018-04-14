@@ -1,7 +1,0 @@
-package com.soaconsulting.model;
-
-import java.util.List;
-
-public class LinesVO extends List {
-
-}

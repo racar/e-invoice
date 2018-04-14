@@ -1,7 +1,0 @@
-package com.soaconsulting.model;
-
-public class IdentificationVO {
-	private String documentNumber;
-	private String documentType;
-	private String countryCode;
-}

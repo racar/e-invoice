@@ -354,3 +354,7 @@ Caused by: java.net.UnknownHostException: download.eclipse.org
 	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:456) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
 	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:359) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
 	... 13 common frames omitted
+2018-04-12 16:21:14,885 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@338df066{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2018-04-12 16:21:15,052 [Framework stop] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-04-12 16:21:16,192 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@213a24ac{/wse,null,UNAVAILABLE}
+2018-04-12 16:56:11,693 [Worker-9] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
