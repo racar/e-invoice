@@ -12,9 +12,12 @@ public class APIController {
 	
 	
 	
-	public String post(String url, String json, MediaType media_type) throws IOException {
+	public String post(String url, String json, String _media_type) throws IOException {
+		System.out.println("Llamando al API rest...");
+		MediaType media_type = MediaType.parse(_media_type);
     	OkHttpClient client = new OkHttpClient();
         RequestBody body = RequestBody.create(media_type, json);
+        
         Request request = new Request.Builder()
             .url(url)
             .post(body)

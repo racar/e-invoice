@@ -17302,3 +17302,598 @@ java.lang.NullPointerException
 
 !ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-04-17 10:55:15.632
 !MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-04-17 11:01:19.061
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-04-17 11:03:41.156
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-04-17 11:08:23.649
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:14:18.263
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:14:18.323
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:15:18.989
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:15:19.029
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:15:22.442
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:15:22.780
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:15:58.720
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:15:58.861
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:15:58.922
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:15:58.978
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:01.753
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:01.754
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:02.184
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:02.207
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:41.932
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:41.954
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:42.886
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:42.887
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:44.736
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:44.737
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:46.392
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:46.426
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:46.608
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:46.609
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:48.318
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:48.361
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:50.312
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:50.356
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:16:51.909
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:16:51.992
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:26.400
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:26.463
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:26.613
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:26.614
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:26.881
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:26.881
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:27.634
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:27.635
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:27.679
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:27.679
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:30.099
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:30.100
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:30.717
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:30.717
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:30.718
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:30.719
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:30.936
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:30.936
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:31.737
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:31.738
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:31.739
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:31.739
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:34.795
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:34.810
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:35.279
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:35.279
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:35.779
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:35.779
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:38.887
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:38.916
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:17:40.322
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:17:40.322
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:23.689
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:23.700
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:23.707
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:23.707
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:24.888
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:24.889
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:26.940
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:26.940
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:28.694
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:28.762
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:29.481
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:29.482
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:30.495
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:30.495
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:40.339
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:40.367
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:40.396
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:40.412
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:41.082
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:41.082
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:45.456
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:45.457
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:46.129
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:46.129
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:57.188
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:57.212
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:57.785
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:57.786
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:18:58.815
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:18:58.815
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:19:12.145
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:19:12.177
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:19:12.923
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:19:12.923
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:19:17.483
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:19:17.484
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:19:18.967
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:19:18.993
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:41.935
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:41.979
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:54.847
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:54.877
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:56.093
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:56.094
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:56.419
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:56.419
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:57.962
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:57.963
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:58.127
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:58.127
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:25:59.431
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:25:59.431
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-04-17 11:26:01.171
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-04-17 11:26:01.214
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-04-17 11:26:10.987
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-04-17 11:28:02.247
+!MESSAGE Server Startup Succeeded

@@ -3,14 +3,9 @@ package com.soaconsulting.la14fe.businesss.impl;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.util.Properties;
 
-import javax.ejb.EJB;
-import javax.ejb.LocalBean;
-import javax.ejb.Stateless;
-import okhttp3.MediaType;
+import com.soaconsulting.la14fe.api.APIController;
 
 
 /**
@@ -20,7 +15,8 @@ import okhttp3.MediaType;
 public class FacturacionProvider {
 	
 	
-	public MediaType JSON = MediaType.parse("application/json; charset=utf-8");
+	//public MediaType JSON = null; //MediaType.parse("application/json; charset=utf-8");
+	public String MEDIA_TYPE = null;
 	public String SALES_INVOICE_URL = null;
 	public String CREDIT_NOTE_URL = null;
 	public String DEBIT_NOTE_URL = null;
@@ -37,7 +33,21 @@ public class FacturacionProvider {
 		SALES_INVOICE_URL = prop.getProperty("SALES_INVOICE_URL");
 		CREDIT_NOTE_URL = prop.getProperty("CREDIT_NOTE_URL");
 		DEBIT_NOTE_URL = prop.getProperty("DEBIT_NOTE_URL");
+		MEDIA_TYPE = prop.getProperty("MEDIA_TYPE");
     }
+    
+    public void salesInvoice(String factura) throws IOException {
+    	APIController apiREST = new APIController();
+    	apiREST.post(SALES_INVOICE_URL, factura, MEDIA_TYPE);
+    }
+    
+    public void creditNote() {
+    	
+    }
+    
+	public void debitNote() {
+	
+	}
     
     
 
