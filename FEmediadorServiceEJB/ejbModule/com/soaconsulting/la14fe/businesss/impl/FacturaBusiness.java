@@ -39,6 +39,9 @@ public class FacturaBusiness implements FacturaBusinessLocal {
 	}
 	
 	
+	
+	
+//Factura bussines utils methods	
 	private String facturaComoString(FacturaVO factura) {
 		ObjectMapper mapper = new ObjectMapper();
 		String facturaMsg = null;
